@@ -10,5 +10,4 @@ public class Number4_3 {
             System.out.print("\n");
         }
     }
-
 }
