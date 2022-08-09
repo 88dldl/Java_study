@@ -28,7 +28,7 @@ public class Restaurant {
         Burger spicy = new Burger(1, "맵습니다", "핫소스", "스파이시");
         Burger chicken = new Burger(3, "달달합니다", "데리야끼", "치킨");
 
-        System.out.println("손님 주문하시겠어요? 혹시 고민이 되신다면 전체음식에 소스조합에 대하여 소개해드리겠습니다");
+        System.out.println("손님 주문하시겠어요? 혹시 고민이 되신다면 전체음식의 소스조합에 대하여 소개해드리겠습니다");
 
         bigMac.combine();
         bigMac.best();
