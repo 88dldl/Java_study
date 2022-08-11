@@ -10,7 +10,6 @@ class Burger {
         name = strings;
         ham_name = string_s;
     }
-
     void combine() {
         System.out.println(ham_name + "버거에는 " + name + "소스를 뿌려 먹습니다.");
     }
