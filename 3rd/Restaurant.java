@@ -14,7 +14,6 @@ class Burger {
     void combine() {
         System.out.println(ham_name + "버거에는 " + name + "소스를 뿌려 먹습니다.");
     }
-
     void best() {
         System.out.println(name + "소스의 맛은 " + taste + ". 따라서 소스를 둥글게 " + amount + "번 정도 짜서 먹으면 최고의 맛이 될것입니다.");
     }
