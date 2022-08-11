@@ -23,7 +23,6 @@ class Burger {
 
 public class Restaurant {
     public static void main(String[] args) {
-        String name;
         Burger bigMac = new Burger(2, "약간 짭니다", "빅벅", "빅맥");
         Burger spicy = new Burger(1, "맵습니다", "핫소스", "스파이시");
         Burger chicken = new Burger(3, "달달합니다", "데리야끼", "치킨");
