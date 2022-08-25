@@ -31,4 +31,3 @@ class FountainPen extends BallPen {
         setAmount(n);
     }
 }
-
