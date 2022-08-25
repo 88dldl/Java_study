@@ -13,7 +13,6 @@ class Calculator {
         return this.value;
     }
 
-
 }
 
 class UpgradeCalculator extends Calculator {
